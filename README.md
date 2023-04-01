@@ -113,7 +113,8 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=315wjnz62lht5q7mcdztsffdkkaa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=315wjnz62lht5q7mcdztsffdkkaa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" /></div>  
+
 
 <br/>  
 
