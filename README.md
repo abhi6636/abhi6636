@@ -101,7 +101,11 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=abhi6636&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi6636&label=Profile%20views&color=0e75b6&style=flat" alt="abhi6636" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi6636" alt="abhi6636" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/@mnuoffl" target="blank"><img src="https://img.shields.io/twitter/follow/@mnuoffl?logo=twitter&style=for-the-badge" alt="@mnuoffl" /></a> </p>
 
 <br/>  
 
