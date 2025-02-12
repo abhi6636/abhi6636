@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi, I'm Abhinand, a full-time Web developer 👨‍💻 working remotely since 2021 🚀</div>  
+### <div align="center">Hi, I'm Abhinand, a Freelance Web developer 👨‍💻 working since 2021 🚀</div>  
   
 
 - 🌱 I’m currently learning MERN Stack  
