@@ -3,13 +3,10 @@
 </div>  
   
 
-### <div align="center">Hi, I'm Abhinand, a Freelance Web developer 👨‍💻 working since 2021 🚀</div>  
+### <div align="center">Hi, I'm Abhinand, a Freelance Web developer 👨‍💻</div>  
   
 
 - 🌱 I’m currently learning MERN Stack  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
